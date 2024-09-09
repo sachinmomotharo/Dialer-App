@@ -44,5 +44,4 @@ This will launch the dialer with the provided number.
 - **activity_main.xml**: Defines the layout of the dialer UI.
 - **AndroidManifest.xml**: Contains the app's permissions and intent filters.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
